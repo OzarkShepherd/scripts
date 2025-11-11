@@ -1,3 +1,4 @@
+# developed with help from my son to turn the json produced by flatpak-pip-generator into a yml
 #!/bin/bash
 python3 -c "
 import yaml
